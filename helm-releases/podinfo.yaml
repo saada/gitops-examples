@@ -15,5 +15,3 @@ spec:
         name: podinfo
   values:
     hello: "world"
-    podAnnotations:
-      helm.sh/resource-policy: keep
